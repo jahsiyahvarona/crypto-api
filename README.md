@@ -17,10 +17,10 @@ Fetches a list of cryptocurrencies with the following details:
 - **market_cap_rank**: The market cap rank of the cryptocurrency.
 
 #### instruction
-Clone the project (or download zip) and open it in IntelliJ.
-MAC OS users may need to change the permissions (chmod -R 777 path/to/project/folder in your terminal) for the project folder when they clone or download this repo.
-Make sure jdk versions match.
-Run the main method.
+- Clone the project (or download zip) and open it in IntelliJ.
+- MAC OS users may need to change the permissions (chmod -R 777 path/to/project/folder in your terminal) for the project folder when they clone or download this repo.
+- Make sure jdk versions match.
+- Run the main method.
 
 On POSTMAN:
 ```http
